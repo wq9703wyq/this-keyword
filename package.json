@@ -1,0 +1,21 @@
+{
+  "name": "this-keyword",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": ". ./script/loadenv.sh && ./script/buildDoc.sh",
+    "exlink": ". ./script/loadenv.sh && node ./script/extractHyperLink.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wq9703wyq/this-keyword.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wq9703wyq/this-keyword/issues"
+  },
+  "homepage": "https://github.com/wq9703wyq/this-keyword#readme"
+}
