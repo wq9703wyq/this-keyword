@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": ". ./script/loadenv.sh && ./script/buildDoc.sh",
-    "exlink": ". ./script/loadenv.sh && node ./script/extractHyperLink.js"
+    "exlink": ". ./script/loadenv.sh && ./script/exlink.sh"
   },
   "repository": {
     "type": "git",

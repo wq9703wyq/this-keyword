@@ -47,7 +47,7 @@
     "[with]": "https://tc39.es/ecma262/multipage/#sec-with-statement-runtime-semantics-evaluation",
     "[OrdinaryCallBindThis]": "https://tc39.es/ecma262/multipage/#sec-ordinarycallbindthis",
     "[BoundFunctionCreate]": "https://tc39.es/ecma262/multipage/#sec-boundfunctioncreate",
-    "[[[BoundThis]]]": "https://tc39.es/ecma262/multipage/#table-internal-slots-of-bound-function-exotic-objects",
+    "[[BoundThis]]": "https://tc39.es/ecma262/multipage/#table-internal-slots-of-bound-function-exotic-objects",
     "[Construct]": "https://tc39.es/ecma262/multipage/#sec-construct",
     "[[[Construct]]]": "https://tc39.es/ecma262/multipage/#sec-ecmascript-function-objects-construct-argumentslist-newtarget",
     "[OrdinaryCreateFromConstructor]": "https://tc39.es/ecma262/multipage/#sec-ordinarycreatefromconstructor",
